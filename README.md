@@ -7,7 +7,11 @@ As respostas do teste lógico estao dentro da pasta "respostasJS".
 
 Todos arquivos utilizados para criar o layout estao dentro da pasta "src/layout".
 
+<<<<<<< HEAD
 # Para abrir o projeto seguir as instruções abaixo:
+=======
+# Para abri o projeto seguir as instruções abaixo:
+>>>>>>> 81ad4ae9feadde79ea67898da58c8a9d93f20c0a
 
 # Getting Started with Create React App
 
