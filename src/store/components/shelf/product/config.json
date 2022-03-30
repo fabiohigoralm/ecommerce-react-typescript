@@ -1,0 +1,36 @@
+{
+  "centerPadding": "0px",
+  "variableWidth": true,
+  "centerMode": true,
+  "arrows": false,
+  "dots": false,
+  "infinite": true,
+  "speed": 500,
+  "slidesToShow": 5,
+  "slidesToScroll": 1,
+  "initialSlide": 0,
+  "responsive": [
+    {
+      "breakpoint": 1444,
+      "settings": {
+        "slidesToShow": 4,
+        "slidesToScroll": 1
+      }
+    },
+    {
+      "breakpoint": 1026,
+      "settings": {
+        "slidesToShow": 3,
+        "slidesToScroll": 1
+      }
+    },
+    {
+      "breakpoint": 770,
+      "settings": {
+        "slidesToShow": 1,
+        "slidesToScroll": 1
+      }
+    
+    }
+  ]
+}

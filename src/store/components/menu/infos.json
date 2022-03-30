@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "nome": "Novidades",
+      "link": ""
+    },
+    {
+      "nome": "Vestidos",
+      "link": ""
+    },
+    {
+      "nome": "Roupas",
+      "link": ""
+    },
+    {
+      "nome": "Sapatos",
+      "link": ""
+    },
+    {
+      "nome": "Lingerie",
+      "link": ""
+    },
+    {
+      "nome": "Acessórios",
+      "link": ""
+    },
+    {
+      "nome": "OUTLET",
+      "link": ""
+    }
+  ]
+}

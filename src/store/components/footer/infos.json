@@ -1,0 +1,18 @@
+{
+  "social": [
+    { "name": "Fabook", "img": "/social/facebook_logo.png" },
+    { "name": "Instagran", "img": "/social/instagran_logo.png" },
+    { "name": "Linkdien", "img": "/social/linkdien_logo.png" },
+    { "name": "Youtube", "img": "/social/youtube_logo.png" }
+  ],
+  "payment": [
+    { "name": "Visa", "img": "/payment/visa.png" },
+    { "name": "Master", "img": "/payment/master.png" },
+    { "name": "Visa", "img": "/payment/visa.png" },
+    { "name": "Master", "img": "/payment/master.png" }
+  ],
+  "development": [
+    { "name": "Vtex", "img": "/info/vtex.png" },
+    { "name": "Maeztra", "img": "/info/maeztra-logo.png" }
+  ]
+}

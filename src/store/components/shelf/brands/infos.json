@@ -1,0 +1,28 @@
+{
+  "props": [
+    {
+      "title": "Coma",
+
+      "img": "/brands/comma.png"
+    },
+    {
+      "title": "Melissa",
+
+      "img": "/brands/melissa.png"
+    },
+    {
+      "title": "Forevar 21",
+
+      "img": "/brands/forever21.png"
+    },
+    {
+      "title": "Zara",
+
+      "img": "/brands/zara.png"
+    },
+    {
+      "title": "Ann Taylor",
+      "img": "/brands/anntaylor.png"
+    }
+  ]
+}
