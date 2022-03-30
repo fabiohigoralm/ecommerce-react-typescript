@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b51ceb7.css",
-    "main.js": "/static/js/main.949ae005.js",
-    "static/js/787.e31901cb.chunk.js": "/static/js/787.e31901cb.chunk.js",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.2b51ceb7.css.map": "/static/css/main.2b51ceb7.css.map",
-    "main.949ae005.js.map": "/static/js/main.949ae005.js.map",
-    "787.e31901cb.chunk.js.map": "/static/js/787.e31901cb.chunk.js.map"
+    "main.css": "/ecommerce-react-typescript/static/css/main.c5834fd4.css",
+    "main.js": "/ecommerce-react-typescript/static/js/main.e8d0ce40.js",
+    "static/js/787.e31901cb.chunk.js": "/ecommerce-react-typescript/static/js/787.e31901cb.chunk.js",
+    "static/media/slick.svg": "/ecommerce-react-typescript/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ecommerce-react-typescript/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ecommerce-react-typescript/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ecommerce-react-typescript/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ecommerce-react-typescript/index.html",
+    "main.c5834fd4.css.map": "/ecommerce-react-typescript/static/css/main.c5834fd4.css.map",
+    "main.e8d0ce40.js.map": "/ecommerce-react-typescript/static/js/main.e8d0ce40.js.map",
+    "787.e31901cb.chunk.js.map": "/ecommerce-react-typescript/static/js/787.e31901cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b51ceb7.css",
-    "static/js/main.949ae005.js"
+    "static/css/main.c5834fd4.css",
+    "static/js/main.e8d0ce40.js"
   ]
 }
