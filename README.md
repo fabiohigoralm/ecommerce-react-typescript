@@ -1,3 +1,14 @@
+# Teste lógico
+
+As respostas do teste lógico estao dentro da pasta "respostasJS".
+
+
+# Arquivos do projeto
+
+Todos arquivos utilizados para criar o layout estao dentro da pasta "src/layout".
+
+# Para abrir o projeto seguir as instruções abaixo:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
