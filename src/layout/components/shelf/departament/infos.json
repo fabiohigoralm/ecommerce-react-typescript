@@ -3,31 +3,31 @@
         {
             "title":"Produtos importados",
             "sub_text":"Produto de Alta Qualidade",
-            "img":"/banner/planet_icon.png"
+            "img":"banner/planet_icon.png"
 
         },
         {
             "title":"Estoque no Brazil",
             "sub_text":"Produtos mais perto de você!",
-            "img":"/banner/doca_icon.png"
+            "img":"banner/doca_icon.png"
 
         },
         {
             "title":"Trocas Garantidas",
             "sub_text":"Trocas em até 48 horas, vejas as regras",
-            "img":"/banner/change_icon.png"
+            "img":"banner/change_icon.png"
 
         },
         {
             "title":"Ganhe 5% off",
             "sub_text":"Pagando à vista no Cartão",
-            "img":"/banner/sale_icon.png"
+            "img":"banner/sale_icon.png"
 
         },
         {
             "title":"Frete Grátis",
             "sub_text":"Em compras acima de R$ 499,00",
-            "img":"/banner/truck_icon.png"
+            "img":"banner/truck_icon.png"
 
         }
     ]
