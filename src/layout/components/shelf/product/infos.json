@@ -2,35 +2,35 @@
   "props": [
     {
       "title": "Faux Suede Mini Skirt",
-      "img": "/product/product1.png",
+      "img": "product/product1.png",
       "price": "R$500,00",
       "desc": "A faux suede mini skirt featuring exposed button-front closures and panel seam construction.",
       "color": ["#DEAC71", "#D37164", "#6497D3", "#3C3B79"]
     },
     {
       "title": "Ruched Rose Print Mini Skirt",
-      "img": "/product/product2.png",
+      "img": "product/product2.png",
       "price": "R$320,00",
       "desc": "A satin mini skirt featuring an allover floral print, ruched side with self-tie closure, concealed back zipper, and a flounce hem.",
       "color": ["#1C1A19", "#D84E4B", "#CFC9B0", "#EAE9E5"]
     },
     {
       "title": "Faux Suede Mini Skirt",
-      "img": "/product/product1.png",
+      "img": "product/product1.png",
       "price": "R$380,00",
       "desc": "A faux suede mini skirt featuring exposed button-front closures and panel seam construction.",
       "color": ["#DEAC71", "#D37164", "#6497D3", "#3C3B79"]
     },
     {
       "title": "Ruched Rose Print Mini Skirt",
-      "img": "/product/product2.png",
+      "img": "product/product2.png",
       "price": "R$430,00",
       "desc": "A satin mini skirt featuring an allover floral print, ruched side with self-tie closure, concealed back zipper, and a flounce hem.",
       "color": ["#1C1A19", "#D84E4B", "#CFC9B0", "#EAE9E5"]
     },
     {
       "title": "Ruched Rose Print Mini Skirt",
-      "img": "/product/product1.png",
+      "img": "product/product1.png",
       "price": "R$330,00",
       "desc": "A satin mini skirt featuring an allover floral print, ruched side with self-tie closure, concealed back zipper, and a flounce hem.",
       "color": ["#DEAC71", "#D37164", "#6497D3", "#3C3B79"]

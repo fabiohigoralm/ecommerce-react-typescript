@@ -3,26 +3,26 @@
     {
       "title": "Coma",
 
-      "img": "/brands/comma.png"
+      "img": "brands/comma.png"
     },
     {
       "title": "Melissa",
 
-      "img": "/brands/melissa.png"
+      "img": "brands/melissa.png"
     },
     {
       "title": "Forevar 21",
 
-      "img": "/brands/forever21.png"
+      "img": "brands/forever21.png"
     },
     {
       "title": "Zara",
 
-      "img": "/brands/zara.png"
+      "img": "brands/zara.png"
     },
     {
       "title": "Ann Taylor",
-      "img": "/brands/anntaylor.png"
+      "img": "brands/anntaylor.png"
     }
   ]
 }
