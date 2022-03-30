@@ -1,13 +1,17 @@
-# Teste lógico
+## Teste lógico
 
 As respostas do teste lógico estao dentro da pasta "respostasJS".
 
 
-# Arquivos do projeto
+## Arquivos do projeto
 
 Todos arquivos utilizados para criar o layout estao dentro da pasta "src/layout".
 
-# Para abrir o projeto seguir as instruções abaixo:
+## Para vizualizar o layout entrar no link abaixo:
+https://fabiohigoralm.github.io/ecommerce-react-typescript/
+
+## Para abrir o projeto seguir as instruções abaixo:
+
 
 # Getting Started with Create React App
 
