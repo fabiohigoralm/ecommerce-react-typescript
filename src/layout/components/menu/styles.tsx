@@ -32,7 +32,7 @@ export const ContainerMenu = styled.div`
     }
   }
   li:hover{
-    background: url('/icons/icon_news.png');
+    background: url('icons/icon_news.png');
     background-repeat: no-repeat;
     background-position: 16% 50%;
     font-weight: 600;

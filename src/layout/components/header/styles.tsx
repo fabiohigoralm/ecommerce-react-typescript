@@ -39,7 +39,7 @@ export const Search = styled.div`
   @media screen and (max-width: 700px) {
     justify-content: flex-end;
     form {
-      background-image: url("/icons/icon_search.png");
+      background-image: url("icons/icon_search.png");
       background-repeat: no-repeat;
       background-position: center;
       width: 25px !important;
@@ -102,7 +102,7 @@ export const User = styled.div`
       }
       li:last-child {
         border: none !important;
-        background-image: url("/icons/icon_wish2.png");
+        background-image: url("icons/icon_wish2.png");
         background-repeat: no-repeat;
         background-position: center;
         width: 25px;
