@@ -11,7 +11,7 @@ const Header = () => {
       <ContainerHeader>
         <MenuMobile />
         <Logo>
-          <img src="/header/logo-maeztra-novo.png" alt="Logo" />
+          <img src="header/logo-maeztra-novo.png" alt="Logo" />
         </Logo>
         <Search>
           <form action="">
@@ -26,15 +26,15 @@ const Header = () => {
         <User>
           <ul>
             <li>
-              <img src="/icons/icon_cont.png" alt="Count"></img>
+              <img src="icons/icon_cont.png" alt="Count"></img>
               <span>Minha Conta</span>
             </li>
             <li>
-              <img src="/icons/icon_wish.png" alt="Whish List"></img>
+              <img src="icons/icon_wish.png" alt="Whish List"></img>
               <span>Meus Favoritos</span>
             </li>
             <li>
-              <img src="/icons/icon_box.png" alt="My box"></img>
+              <img src="icons/icon_box.png" alt="My box"></img>
               <span>Meu Carrinho</span>
             </li>
           </ul>

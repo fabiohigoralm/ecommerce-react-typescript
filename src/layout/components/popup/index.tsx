@@ -18,11 +18,11 @@ export const Popup:FunctionComponent<IProps> = () => {
           </div>
           <div className="content">
             <div className="img">
-              <img src="/collection/pop.png" alt="pop" />
+              <img src="collection/pop.png" alt="pop" />
             </div>
             <div className="text">
               <div>
-                <img src="/icons/email_icon.png" alt="pop" />
+                <img src="icons/email_icon.png" alt="pop" />
               </div>
               <div className="welcome">
                   <p>BEM VINDO A MAEZTRA</p>

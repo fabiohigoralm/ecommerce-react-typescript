@@ -50,18 +50,18 @@ const Footer = () => (
         <ul className="developed">
           <li>
             <span>
-              <img src="/info/developed-by.png" alt="developed" />
+              <img src="info/developed-by.png" alt="developed" />
             </span>
             <span>
-              <img src="/info/maeztra-logo.png" alt="maeztra" />
+              <img src="info/maeztra-logo.png" alt="maeztra" />
             </span>
           </li>
           <li>
             <span>
-              <img src="/info/powered-by.png" alt="powered by" />
+              <img src="info/powered-by.png" alt="powered by" />
             </span>
             <span>
-              <img src="/info/vtex.png" alt="vtex" />
+              <img src="info/vtex.png" alt="vtex" />
             </span>
           </li>
         </ul>

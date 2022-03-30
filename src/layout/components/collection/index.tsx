@@ -17,7 +17,7 @@ export const Collection = () => (
       </p>
     </div>
     <div className="col2">
-      <img src="/collection/collection.png" alt="Collection" />
+      <img src="collection/collection.png" alt="Collection" />
     </div>
   </ContainerCollection>
 );

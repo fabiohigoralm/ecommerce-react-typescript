@@ -6,7 +6,7 @@ export const MenuMobile = () => {
   return (
     <Menu>
         <div>
-            <img src="/icons/icon_menu.png" alt="menu"/>
+            <img src="icons/icon_menu.png" alt="menu"/>
         </div>
       <div className="hidden">
         <ul>
