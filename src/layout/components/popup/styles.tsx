@@ -26,7 +26,7 @@ export const CountainerPopUp = styled.div(
     display: flex;
   }
   .popup {
-    padding-top: 15%;
+    padding-top: 5%;
     height: 555px;
     z-index: 2;
     //background-color: white;
